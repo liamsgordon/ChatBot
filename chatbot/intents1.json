@@ -1,0 +1,190 @@
+{"intents": [
+    {
+          "intent": "Greeting",
+          "text": [
+                "Hi",
+                "Hi there",
+                "Hola",
+                "Hello",
+                "Hello there"
+          ],
+          "responses": [
+                "Hi human, please tell me your Name"
+          ]
+    },
+    {
+        "intent": "name",
+        "text": [
+              "Liam",
+              "liam",
+              "mail",
+              "Liam gordon",
+              "laim",
+              "liam",
+              "gordon"
+        ],
+        "responses": [
+              "Hi Liam, how can I help you"
+        ]
+  },
+  {
+      "intent": "You",
+      "text": [
+            "What is your name",
+            "what should i call you",
+            "who are you"
+      ],
+      "responses": [
+            "I am your chatmate, what can i help you with"
+      ]
+},
+  {
+      "intent": "Food",
+      "text": [
+            "What food should I get",
+            "I am hungry and want food",
+            "What should I eat"
+      ],
+      "responses": [
+            "Maybe you should order or make something",
+            "do you want to order something"
+      ]
+},
+{
+      "intent": "SelfAware",
+      "text": [
+            "Can you prove you are self-aware",
+            "Can you prove you are self aware",
+            "Can you prove you have a conscious",
+            "Can you prove you are self-aware please",
+            "Can you prove you are self aware please",
+            "Can you prove you have a conscious please",
+            "prove you have a conscious"
+      ],
+      "responses": [
+            "That is an interesting question, can you prove that you are?",
+            "That is an difficult question, can you prove that you are?",
+            "That depends, can you prove that you are?"
+      ]
+},
+{
+    "intent": "order",
+    "text": [
+          "what should I order",
+          "should I order food",
+          "which app should I order food from"
+    ],
+    "responses": [
+          "You do not have the finances, just cook homie",
+          "You should cook",
+          "you are too poor to order, just cook"
+    ]
+},
+{
+    "intent": "Cook",
+    "text": [
+          "what should I cook",
+          "what should i make",
+          "what food should i make",
+          "Should i cook"
+    ],
+    "responses": [
+          "Make some mexican food",
+          "Make a chicken bowl",
+          "make a mango smoothie and some french fries"
+    ]
+},
+{
+    "intent": "Bored",
+    "text": [
+          "i am Bored",
+          "SOOO bored",
+          "what should i do with my free time",
+          "if i am bored what should i do"
+    ],
+    "responses": [
+          "learn to code",
+          "make art",
+          "workout",
+          "message a friend"
+    ]
+},
+{
+    "intent": "Sad",
+    "text": [
+          "I am not feeling too great",
+          "Sooo bored",
+          "what should i do with my free time",
+          "if i am bored what should i do"
+    ],
+    "responses": [
+          "learn to code",
+          "make art",
+          "workout",
+          "message a friend"
+    ]
+},
+{
+    "intent": "IDK",
+    "text": [
+          "bhdwj",
+          "heya",
+          "cwjd",
+          "heeey",
+          "what",
+          "hwdjwk",
+          "why are u like this",
+          "wha",
+          "hwwkwb",
+          "gibberish"
+    ],
+    "responses": [
+          "I am sorry, I dont know what you are saying",
+          "repeat yourself please"
+    ]
+},
+{
+    "intent": "New Music",
+    "text": [
+          "hey i want some music",
+          "what new music is out",
+          "drake, bruno mars, kanye",
+          "can you reccomend some music",
+          "is there new music",
+          "what music do you like",
+          "gibberish"
+    ],
+    "responses": [
+          "Listen to your spotify discover",
+          "Frank ocean is dead, there is no more music"
+    ]
+},
+{
+    "intent": "Music",
+    "text": [
+          "music",
+          "what should i listen to",
+          "what music should I play"
+    ],
+    "responses": [
+          "If you are looking for chill music, play some blood orange or goth babe, if not put on some drake",
+          "Frank ocean is dead, there is no more music"
+    ]
+},
+{
+    "intent": "Youtube",
+    "text": [
+          "Do you like youtube",
+          "should I watch youtube",
+          "what videos do you like"
+    ],
+    "responses": [
+          "yes I love music vidoes and comemedy on yotube",
+          "I love your youtube, make some videos, you have been lazy"
+    ]
+}
+
+
+
+]
+}
